@@ -1,0 +1,6 @@
+{
+  "name": "AI Meeting Recorder",
+  "description": "A professional AI-powered meeting recorder and transcriber that automatically generates summaries, action items, key decisions, and interactive transcripts using Gemini.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
